@@ -1,0 +1,42 @@
+{
+  "name": "@mrchief/react-dropdown-tree-select",
+  "version": "0.0.1",
+  "description": "Hooks for creating Dropdown Tree Select component for React",
+  "main": "dist/react-dropdown-tree-select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrchief/react-dropdown-tree-select.git"
+  },
+  "keywords": [
+    "react",
+    "tree-select",
+    "dropdown",
+    "dropdown-tree-select",
+    "react-dropdown-tree-select",
+    "checkbox-tree",
+    "checkbox-select",
+    "checkbox-tree-select",
+    "checkbox-dropdown-tree-select",
+    "fast",
+    "customizable",
+    "lightweight",
+    "searchable",
+    "search",
+    "hooks"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrchief/react-dropdown-tree-select/issues"
+  },
+  "homepage": "https://github.com/mrchief/react-dropdown-tree-select#readme",
+  "peerDependencies": {
+    "react": "^17"
+  },
+  "files": [
+    "dist"
+  ]
+}
